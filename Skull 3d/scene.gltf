@@ -208,7 +208,26 @@
       "uri": "scene.bin"
     }
   ],
- 
+  "images": [
+    {
+      "uri": "textures/Rosa_material_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Rosa_material_normal.png"
+    },
+    {
+      "uri": "textures/Rosa_material_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/defaultMat_material_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/defaultMat_material_normal.png"
+    },
+    {
+      "uri": "textures/defaultMat_material_baseColor.jpeg"
+    }
+  ],
   "materials": [
     {
       "doubleSided": true,
